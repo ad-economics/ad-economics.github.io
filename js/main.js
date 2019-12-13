@@ -270,9 +270,9 @@
             });
 
         //Google Maps
-        $("#map").googleMap();
+        // $("#map").googleMap();
         $("#map").addMarker({
-            address: "15 avenue des champs Elysées 75008 Paris" // Your Address
+            address: "Ивантеевская ул. дом 7/20" // Your Address
         });
     });
 
