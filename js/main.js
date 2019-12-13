@@ -269,11 +269,8 @@
                 }
             });
 
-        //Google Maps
-        // $("#map").googleMap();
-        $("#map").addMarker({
-            address: "Ивантеевская ул. дом 7/20" // Your Address
-        });
+        //Google Maps (deleted, more info in documentation for template)
+        
     });
 
 })(jQuery);
